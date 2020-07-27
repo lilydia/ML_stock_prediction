@@ -1,4 +1,4 @@
-# ML Stock Prediction
+# Stock Price Prediction | Machine Learning
 
 Our stock prediction platform helps to boost confidence in naïve investors by providing latest stock trends. The predictions are generated using machine learning techniques. This repo will focus on implementation and evaluation of different predictive algorithms. 
 
